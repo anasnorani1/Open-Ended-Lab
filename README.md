@@ -1,6 +1,6 @@
 # Open-Ended-Lab
-The ICT Open Ended Lab Allows us to make a webpage of different landmarks of our choice
-The Code is given by :
+#The ICT Open Ended Lab Allows us to make a webpage of different landmarks of our choice
+#The Code is given by :
 <!DOCTYPE html>
 <html lang="en">
 <head>
